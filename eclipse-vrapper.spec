@@ -8,7 +8,7 @@ Summary:        Vim-like editing in Eclipse
 
 Group:          Development/Java
 License:        GPLv3+
-URL:            http://vrapper.sourceforge.net
+URL:            https://vrapper.sourceforge.net
 Source0:        vrapper-%{version}-r%{svnrev}.tar.bz2
 # Source gathered via:
 # svn co -r r351 https://vrapper.svn.sourceforge.net/svnroot/vrapper vrapper-0.15.0
